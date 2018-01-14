@@ -6,7 +6,7 @@ Code snippets, examples, and sample projects used on the [Sharpen blog](http://s
 
 Here is the complete list of snippets and projects, ordered alphabetically by the blog post title:
 
-- Out Variables Under the Hood (still to be written)
+- Out Variables Under the Hood (still to be written) ([code snippets](OutVariablesUnderTheHood))
 
 ## License
 *Blog samples* are neither licensed nor copyrighted. You can do whatever you want with them as long as you don't say you created them yourself ;-) In case of (re)use, providing a link to this GitHub repository would be highly appreciated, but it's not mandatory.
