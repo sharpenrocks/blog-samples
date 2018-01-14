@@ -10,23 +10,23 @@ namespace Snippets
             return true;
         }
 
-        public void Before()
+        public void ClassicalWay()
         {
             int value;
             GetSingleOutValue(out value);
         }
 
-        public void After()
+        public void WithOutVariable()
         {
             GetSingleOutValue(out int value);
         }
 
-        public void AfterWithTypeInference()
+        public void WithOutVariableAndTypeInference()
         {
             GetSingleOutValue(out var value);
         }
 
-        public void AfterWithIgnore()
+        public void WithDiscard()
         {
             GetSingleOutValue(out _);
         }
@@ -41,7 +41,7 @@ namespace Snippets
             return true;
         }
 
-        public void IgnoringBothValues()
+        public void DiscardingBothValues()
         {
             GetSeveralOutValues(out _, out _);
         }
