@@ -6,7 +6,7 @@ Code snippets, examples, and sample projects used on the [Sharpen blog](http://s
 
 Here is the complete list of snippets and projects, ordered alphabetically by the blog post title:
 
-- [Out Variables Under the Hood](http://sharpen.rocks/blog/out-variables-under-the-hood/) ([code snippets](OutVariablesUnderTheHood))
+- [C# 7.0 Out Variables Under the Hood](http://sharpen.rocks/blog/csharp-7.0-out-variables-under-the-hood/) ([code snippets](CSharp70OutVariablesUnderTheHood))
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
